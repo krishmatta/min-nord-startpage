@@ -40,10 +40,13 @@ body {
 }
 
 .square-header {
+  display: table;
+  margin: 0px auto 0px auto;
+  padding: 0.2rem;
+  background-color: #81A1C1;
   font-size: 1.1rem;
   font-weight: 600;
   color: #E5E9F0;
-  margin: 0em 0em .35em 0em;
 }
 
 .square-body {
