@@ -1,7 +1,5 @@
-# Min Startpage
+# Min Nord Startpage
 
-A minimal startpage containing my most visited links....
+A minimal startpage focused around the Nord color theme.
 
-![alt text](http://i.imgur.com/KIMBAXp.png "Min Startpage")
-
-> Browser is [Waterfox](https://www.waterfox.net/) using this [userchrome.css](https://github.com/furycd001/dots/tree/master/Waterfox) that I've been creating.
+![alt text](https://imgur.com/KmCKWUg.png "Min Nord Startpage")
